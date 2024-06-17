@@ -21,6 +21,7 @@ footer{
     font-weight: 100;
     padding: 15px 0px 15px;
     margin-top: 50px;
+    position: relative;
 }
 img{
     border-radius: 25px;
