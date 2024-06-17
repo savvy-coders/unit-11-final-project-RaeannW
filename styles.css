@@ -20,8 +20,12 @@ footer{
     background-color: #a2997a;
     font-weight: 100;
     padding: 15px 0px 15px;
-    margin-top: 50px;
-    position: relative;
+    margin: 50px 0 0 0;
+}
+body > footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 img{
     border-radius: 25px;
